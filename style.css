@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#111;
+    color:white;
+}
+
+header{
+    background:#000;
+    padding:20px;
+    text-align:center;
+}
+
+header h1{
+    color:gold;
+}
+
+.section{
+    padding:40px 20px;
+}
+
+.card{
+    background:#222;
+    border-radius:10px;
+    padding:20px;
+    margin:15px 0;
+}
+
+.btn{
+    display:inline-block;
+    background:#25D366;
+    color:white;
+    padding:12px 20px;
+    border-radius:8px;
+    text-decoration:none;
+}
+
+footer{
+    background:#000;
+    padding:20px;
+    text-align:center;
+}
+
+.whatsapp-btn{
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    background:#25D366;
+    color:white;
+    padding:15px;
+    border-radius:50px;
+    text-decoration:none;
+}
