@@ -80,3 +80,30 @@ nav a{
 nav a:hover{
     color:gold;
 }
+.hero{
+    text-align:center;
+    padding:80px 20px;
+    background:linear-gradient(135deg,#000,#222);
+}
+
+.hero h1{
+    font-size:40px;
+    color:gold;
+}
+
+.hero p{
+    font-size:20px;
+    color:#ddd;
+    margin:20px 0;
+}
+
+.btn{
+    display:inline-block;
+    margin:10px;
+    padding:15px 25px;
+    background:#25D366;
+    color:white;
+    text-decoration:none;
+    border-radius:8px;
+    font-weight:bold;
+}
